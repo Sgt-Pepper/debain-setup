@@ -42,7 +42,7 @@ apt update
 
 # 5. Install Chrome, VS Code, Git, Rust, Go, Python, build essentials, and neofetch
 echo "Installing software packages..."
-apt install -y google-chrome-stable code git rustc golang python3 build-essential neofetch
+apt install -y google-chrome-stable code git rustc golang python3 build-essential neofetch htop
 
 # 6. Remove LibreOffice and Evolution
 echo "Removing LibreOffice and Evolution..."
